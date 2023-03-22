@@ -11,10 +11,10 @@ global.Owner = ['+201275658375']  // -- Add multiple numbers like  ['91810196783
 global.OwnerNumber = ['+201275658375']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
 global.ownertag = ['+201275658375']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
 global.BotName = "مايكي"
-global.packname = "مايكي bot"
+global.packname = "mikey bot "
 global.author = "By: Draken"
 global.OwnerName = "🎃دراكن"
-global.BotSourceCode = "https://instagram.com/draken_otaku_?igshid=YmMyMTA2M2Y=‎‏" // -- Please don't change -- //
+global.BotSourceCode = "https://instagram.com/virus_forever_101" // -- Please don't change -- //
 global.SupportGroupLink = "‎‏"  // -- Please don't change -- //
 global.sessionName = "session"  // -- Don't change otherwise bot will not work -- //
 
